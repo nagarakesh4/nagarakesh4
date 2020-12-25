@@ -1,6 +1,6 @@
 ### Hello 👋 , Hi 🙏🏻
 ### San Jose, CA  
-## 🏠 🇮🇳🇳
+## 🏠 🇮🇳
 
 - 🌴 I’m currently working at Adobe as a Full stack web developer
 
@@ -17,9 +17,3 @@ The summary of the main languages present on my github :
 
 ## Twitter
 [![Twitter](https://i.imgur.com/SnM7J4Q.png)](https://twitter.com/nagarakesh4)
-
-## Dev.to
-<a href="https://dev.to/nagarakesh4">
-  <img src="https://i.imgur.com/fja5COD.png" alt="Venkata's dev.to profile" width="480" height="240"> 
-</a>
-    
