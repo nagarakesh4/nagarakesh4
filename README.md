@@ -1,5 +1,5 @@
 ### Hello 👋 , Hi 🙏🏻
-### San Jose, CA  
+### I am from San Jose, CA  
 ## 🏠 🇮🇳
 
 - 🌴 I’m currently working at Adobe as Software Engineer focused on full stack web development
