@@ -2,9 +2,9 @@
 ### San Jose, CA  
 ## 🏠 🇮🇳
 
-- 🌴 I’m currently working at Adobe as a Full stack web developer
+- 🌴 I’m currently working at Adobe as Software Engineer focused on full stack web development
 
-- 🌞 My focus for 2021: More of React, Typescript, CSS Flexbox, Grids and Microfrontends
+- 🌞 2021 probably: More of React.js, Typescript, CSS Flexbox, Grids and Microfrontends
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nagarakesh4&show_icons=true&theme=radical) 
 
