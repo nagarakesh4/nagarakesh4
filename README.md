@@ -15,3 +15,5 @@
 
 ## Twitter
 [![Twitter](https://i.imgur.com/SnM7J4Q.png)](https://twitter.com/nagarakesh4)
+
+![Metrics](https://metrics.lecoq.io/nagarakesh4)
