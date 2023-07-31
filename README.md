@@ -6,10 +6,6 @@
 
 - 🌞 Skills: React.js, Typescript, Microfrontends, CSS, Java, Spring boot, Observability, REST, Microservices
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nagarakesh4&show_icons=true&theme=radical) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagarakesh4&layout=compact)
-
 ## LinkedIn
 [![LinkedIn](https://i.imgur.com/3GY2eJw.png)](https://www.linkedin.com/in/venkatabuddhiraju/)
 
