@@ -17,11 +17,11 @@ Feel free to connect with me @nagarakesh4 for all things tech or just to say hel
 - ⚽ &nbsp; I play tennis 🎾 cricket 🏏 and go for runs 👟 
 - 🚗 &nbsp; I love to go for loooooooooooong drives and hikes 🏔️
 
-### Love to:
+### Interests in:
 
-- 💻 &nbsp; explore new technologies and building cool stuff.
-- 📰 &nbsp; Read & watch Tech videos
-- 🤝 &nbsp; go for Hackathons.
+- 💻 &nbsp; exploring new technologies and building cool stuff.
+- 📰 &nbsp; reading & watching Tech videos
+- 🤝 &nbsp; hackathons.
 
 ### As a developer:
 
