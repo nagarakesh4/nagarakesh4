@@ -15,7 +15,7 @@ Feel free to connect with me @nagarakesh4 for all things tech or just to say hel
 ### Being Personal:
 
 - ⚽ &nbsp; I play tennis 🎾 cricket 🏏 and go for runs 👟 
-- 🚗 &nbsp; I love to go for loooooooooooong drives 
+- 🚗 &nbsp; I love to go for loooooooooooong drives and hikes 🏔️
 
 ### Love to:
 
