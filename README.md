@@ -14,7 +14,7 @@ I'm an explorer of new tech, an avid learner. When I'm not in code, you'll find 
 Feel free to connect with me @nagarakesh4 for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/nagarakesh4)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nagarakesh4)
+[![Linkedin Badge]([https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nagarakesh4](https://www.linkedin.com/in/venkatabuddhiraju))
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/nagarakesh4/)
 
 
@@ -43,10 +43,7 @@ Feel free to connect with me @nagarakesh4 for all things tech or just to say hel
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" title="terminal"></code>
 
-
-
-
-### Projects and Dev Stuffs:
+### Development
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
