@@ -1,15 +1,9 @@
 ### Hello 👋 , Hi 🙏🏻 I'm Venkata
 #### 💻&nbsp; &nbsp; ===&nbsp; &nbsp; 🇺🇸&nbsp; &nbsp; &&&nbsp; &nbsp; 🏠&nbsp; &nbsp; ===&nbsp; &nbsp; 🇮🇳
 
-- 🌴 I’m currently working as Software Engineer focused on full stack web development
-
-- 🌞 Skills: React.js, Typescript, Microfrontends, CSS, Java, Spring boot, Observability, REST, Microservices
-
 I am a Full Stack Developer currently leading the development efforts at Adobe with a mission to help boost developers productivity and velocity. 🚀
 
-I have a passion for problem-solving, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Typescript, Nodejs, MongoDB, React, Java, Springboot etc. I've led diverse teams covering Frontend, Backend, Observability and building scalable products making a positive impact through technology.
-
-I'm an explorer of new tech, an avid learner. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+I have a passion for problem-solving, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Typescript, Nodejs, REST, MongoDB, React, Java, Springboot etc. I've led diverse teams covering Frontend, Backend, Observability and building scalable products making a positive impact through technology. 📡
 
 Feel free to connect with me @nagarakesh4 for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
@@ -29,7 +23,7 @@ Feel free to connect with me @nagarakesh4 for all things tech or just to say hel
 - 📰 &nbsp; Read & watch Tech videos
 - 🤝 &nbsp; go for Hackathons.
 
-### Languages and Tools:
+### As a developer:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript"></code>
 <code><img height="27" src="https://www.univention.com/wp-content/uploads/2020/04/200416-rest-api.jpg" title="rest-api"></code>
