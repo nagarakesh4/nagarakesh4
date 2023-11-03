@@ -14,7 +14,7 @@ I'm an explorer of new tech, an avid learner. When I'm not in code, you'll find 
 Feel free to connect with me @nagarakesh4 for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/nagarakesh4)
-[![Linkedin Badge]([https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nagarakesh4](https://www.linkedin.com/in/venkatabuddhiraju))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/venkatabuddhiraju)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/nagarakesh4/)
 
 
@@ -32,10 +32,10 @@ Feel free to connect with me @nagarakesh4 for all things tech or just to say hel
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript"></code>
-<code><img height="27" src="https://github.com/nagarakesh4/nagarakesh4/assets/4505218/6e8de6c2-8edc-47e3-b83b-3fc65d968d16" title="rest-api"></code>
-<code><img height="27" src="https://github.com/nagarakesh4/nagarakesh4/assets/4505218/b4c52d40-c046-4d37-bb1e-bdc60039afc6" title="java"></code>
+<code><img height="27" src="https://www.univention.com/wp-content/uploads/2020/04/200416-rest-api.jpg" title="rest-api"></code>
+<code><img height="27" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" title="java"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="typescript"></code>
-<code><img height="27" src="https://github.com/nagarakesh4/nagarakesh4/assets/4505218/eb111e77-e7a4-4126-9343-bcce8801fff6" alt="observability" title="observability"></code>
+<code><img height="27" src="https://seeklogo.com/images/O/opentelemetry-logo-2DC4F51D47-seeklogo.com.png" alt="observability" title="observability"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="react"></code>
