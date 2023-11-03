@@ -43,8 +43,6 @@ Feel free to connect with me @nagarakesh4 for all things tech or just to say hel
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" title="terminal"></code>
 
-### Development
-
 <details>
   <summary><b>⚡ Github Stats</b></summary>
 
