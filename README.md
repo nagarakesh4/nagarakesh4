@@ -12,10 +12,10 @@ Feel free to connect with me @nagarakesh4 for all things tech or just to say hel
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/nagarakesh4/)
 
 
-### Being Personal:
+### Personally 
 
-- ⚽ &nbsp; I play tennis 🎾 cricket 🏏 and go for runs 👟 
-- 🚗 &nbsp; I love to go for loooooooooooong drives and hikes 🏔️
+- ⚽ &nbsp; play tennis 🎾 cricket 🏏 and go for runs 👟 
+- 🚗 &nbsp; love to go for loooooooooooong drives and hikes 🏔️
 
 ### Interests in:
 
